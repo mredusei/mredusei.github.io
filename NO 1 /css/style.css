@@ -1,0 +1,65 @@
+
+body{
+background-color: black;
+background-size: cover;
+height: 200vh;
+}
+
+li{
+    display: inline-block;
+    color: white;
+    margin-left: 2rem;
+}
+
+.rightmenu{
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 60rem;
+    margin-top: 0;}
+
+.numberone{
+    width: 100%;
+    height: 80vh;
+}
+.checkin{
+    padding-left: 0;
+}
+.checkin li{
+    padding-left: 3%;
+    border: 10rem;
+}
+.checkindate{
+display: block;
+}
+.typesection{
+    margin-left: 6rem;
+    margin: 2rem;
+    padding-left: 3rem;
+    height: 2rem;
+    border: 3px solid tomato;}
+  
+
+.div .typesection{
+    border: 3px solid blue;
+}
+h4{
+    color: rgb(255, 255, 255); 
+    padding-left: 600px;
+    padding-top: 3rem;
+    padding-bottom: 0;
+    margin: 0;
+    font-size: 1rem;
+}
+
+h1{
+    color: rgb(228, 203, 140);
+    font-size: 50px;
+    padding-left: 600px;
+    padding-top: 0rem;
+}
+h3{
+    color: rgb(255, 255, 255);
+    width: 40%;
+    padding-left: 600px;
+    font-weight: lighter;
+}
